@@ -29,7 +29,7 @@ body, p {
 
 h1 {
 	color: #30363a;
-	font-weight: 700;
+	font-weight: 600;
 	font-size: 2.625rem;
 	line-height: 3.25rem;
 	font-family: "Open Sans", sans-serif;
@@ -340,8 +340,8 @@ hr.hr-heading {
 
 .header img {
 	border-radius: 50%;
-	width: 4rem;
-	height: 4rem;
+	width: 8rem;
+	height: 8rem;
 	margin-right: 0.25rem;
 	margin-left: 0.25rem;
 }
@@ -1000,8 +1000,8 @@ hr.hr-heading {
 
 	/* Header */
 	.header img {
-		width: 5rem;
-		height: 5rem;
+		width: 8rem;
+		height: 8rem;
 		margin-right: 0.625rem;
 		margin-left: 0.625rem;
 	}
