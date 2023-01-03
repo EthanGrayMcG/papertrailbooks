@@ -179,7 +179,7 @@ hr.hr-heading {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #e5575e; /* needs to stay here because of the color property of a tag */
+	color: #c88b64; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
@@ -428,7 +428,7 @@ hr.hr-heading {
 }
 
 .cards-1 .card-title {
-	color: #e5575e;
+	color: #c88b64;
 	font-weight: 700;
 	font-size: 1.125rem;
 	margin-bottom: 0.5rem;
@@ -826,7 +826,7 @@ hr.hr-heading {
 }
 
 #myBtn:hover {
-	background-color: #e5575e;
+	background-color: #c88b64;
 }
 
 #myBtn img {
